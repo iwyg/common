@@ -1,4 +1,6 @@
 # Cache component for selene.
+This repository is deprecated and unmaintained, please use [Lucid\Common](https://github.com/lucidphp/common) instead.
+
 [![Build Status](https://api.travis-ci.org/seleneapp/cache.png?branch=development)](https://travis-ci.org/seleneapp/cache)
 [![Code Climate](https://codeclimate.com/github/seleneapp/cache.png)](https://codeclimate.com/github/seleneapp/cache)
 [![Coverage Status](https://coveralls.io/repos/seleneapp/cache/badge.png?branch=development)](https://coveralls.io/r/seleneapp/cache?branch=development)
